@@ -10,7 +10,7 @@ Este README centraliza el instructivo del taller y la navegación de toda la doc
 Aplica a todos los participantes del taller, tanto del frente IBM i como del frente Sistemas Abiertos.
 
 - Guía obligatoria para activar GitHub Copilot Free:
-  - [Guias/Guia_GitHubCopilot_CuentaGratuita.md](Guias/Guia_GitHubCopilot_CuentaGratuita.md)
+  - [Guias/Guia_GitHubCopilot.md](Guias/Guia_GitHubCopilot.md)
 
 Reglas obligatorias para la cuenta:
 - La cuenta debe ser **personal**, no corporativa.
@@ -66,7 +66,7 @@ Reglas obligatorias para la cuenta:
   - [Documentacion_IBMi/Codigo_Ejemplos/GrabaIFS.sql](Documentacion_IBMi/Codigo_Ejemplos/GrabaIFS.sql)
   - [Documentacion_IBMi/Codigo_Ejemplos/PracticaJSON.sql](Documentacion_IBMi/Codigo_Ejemplos/PracticaJSON.sql)
 - Guía obligatoria para acceso al servidor IBM i (PUB400):
-  - [Guias/Guia_PUB400_CrearCuenta.md](Guias/Guia_PUB400_CrearCuenta.md)
+  - [Guias/Guia_PUB400.md](Guias/Guia_PUB400.md)
   - Antes de iniciar el desarrollo en IBM i, cada participante debe crear su propio usuario gratuito en PUB400 e instalar IBM i Access Client Solutions. Sin esto no es posible ejecutar los entregables del frente IBM i.
   - Implicaciones del uso del servidor:
     - El usuario es individual, no se comparte entre participantes.
